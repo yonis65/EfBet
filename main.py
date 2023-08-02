@@ -7,6 +7,8 @@ import json
 import logging
 import logging.handlers
 
+VERSION = "V0.1"
+
 logger = logging.getLogger("mainlog")
 formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(message)s')
 logger.setLevel(logging.DEBUG)
@@ -208,12 +210,12 @@ def resize():
 with dpg.item_handler_registry(tag="window_handler"):
     dpg.add_item_resize_handler(callback=resize)
 
-logger.info('App started')
+logger.info(f'App started ({VERSION})')
 
 dpg.bind_item_handler_registry("Main Window", "window_handler")
 dpg.set_frame_callback(1, load_values)
 
-dpg.create_viewport(title='Efbet Auto Bet', width=900, height=600)
+dpg.create_viewport(title=f'Efbet Auto Bet ({VERSION})', width=900, height=600)
 dpg.setup_dearpygui()
 dpg.show_viewport()
 dpg.set_primary_window("Main Window", True)
