@@ -7,7 +7,7 @@ import json
 import logging
 import logging.handlers
 
-VERSION = "V0.2"
+VERSION = "V0.3"
 
 logger = logging.getLogger("mainlog")
 formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(message)s')
@@ -103,11 +103,15 @@ def start():
 
     n_match = 0
     masaniello_working = True
+
     while masaniello_working:
         match = matches[n_match]
+        n_match += 1
+
         quotes = eb.search_match(match["name"])
 
         if quotes == False:
+            logger.info("Going to the next match")
             continue
 
         amount = bs.update_masaniello_quote(quotes[match["segno"]]["quota"])
@@ -116,6 +120,7 @@ def start():
             continue
         
         if eb.place_bet(quotes, match["segno"], amount, bs) == False:
+            logger.info("Going to the next match")
             bs.go_previous()
             continue
 
@@ -126,7 +131,7 @@ def start():
         if float(cassa) <= 0:
             masaniello_working = False
             continue
-        n_match += 1
+        
 
     bs.delete_masaniello()
     logger.info(f"Finished betting, cassa: {cassa}, matches: {len(bs.bets)}")
