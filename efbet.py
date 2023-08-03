@@ -49,8 +49,7 @@ class EfBet():
             WebDriverWait(self.browser, 10).until(EC.element_to_be_clickable((By.ID, "cg-profile-popup-toggle")))
         except:
             logger.debug("[EfBet] Failed to login, retry")
-            self.login(n+1)
-            return False
+            return self.login(n+1)
 
         logger.info("[EfBet] Logged in")
         return True
