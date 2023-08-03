@@ -124,6 +124,17 @@ class BigStake():
         logger.debug(f"[BigStake] Create masaniello id: {new_masaniello_id}, earnings: {cassa}, events: {n_eventi}, avarage quote: {quota_media}, expected wins: {n_prese}")
 
 if __name__ == "__main__":
+    import logging.handlers
+
+    formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(message)s')
+    logger.setLevel(logging.DEBUG)
+
+    stream_handler = logging.StreamHandler()
+    stream_handler.setLevel(logging.DEBUG)
+    stream_handler.setFormatter(formatter)
+
+    logger.addHandler(stream_handler)
+
     bs = BigStake("npsassari@inwind.it", "zimbello")
     bs.create_masaniello(100, 10, 1.5, 6)
 
@@ -131,7 +142,11 @@ if __name__ == "__main__":
     bs.update_masaniello_result(1)
 
     bs.update_masaniello_quote(1.6)
-    bs.update_masaniello_result(0)
 
     bs.go_previous()
     bs.update_masaniello_quote(1.2)
+    bs.update_masaniello_result(0)
+
+    bs.update_masaniello_quote(1.9)
+    bs.update_masaniello_result(1)
+
