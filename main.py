@@ -7,7 +7,7 @@ import json
 import logging
 import logging.handlers
 
-VERSION = "V0.1"
+VERSION = "V0.2"
 
 logger = logging.getLogger("mainlog")
 formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(message)s')
