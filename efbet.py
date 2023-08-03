@@ -1,5 +1,4 @@
 import datetime
-from math import e
 import requests
 from undetected_chromedriver import Chrome
 from selenium.webdriver.chrome.options import Options
@@ -224,7 +223,7 @@ class EfBet():
         MINUTES = 5
 
         while True:
-            data = self.check_bet()
+            data = self.get_bets()
             opens = data["opns"]
             if len(opens) == 0:
                 res = 1
