@@ -46,7 +46,7 @@ class EfBet():
         WebDriverWait(self.browser, 10).until(EC.element_to_be_clickable((By.ID, "cg-password"))).send_keys(self.password)
         self.browser.execute_script("cg_login()")
         try:
-            WebDriverWait(self.browser, 10).until(EC.element_to_be_clickable((By.ID, "cg-profile-popup-toggle")), message="Couldn't find cg-profile-popup-toggle")
+            WebDriverWait(self.browser, 10).until(EC.element_to_be_clickable((By.ID, "cg-profile-popup-toggle")), message="Couldn't find cg-profile-popup-toggle #1")
         except:
             logger.debug("[EfBet] Failed to login, retry")
             return self.login(n+1)
@@ -58,8 +58,9 @@ class EfBet():
     def search_match(self, match):
         logger.debug(f"[EfBet] Searching for match {match}")
 
+        self.browser.get("https://www.efbet.it/scommesse")
         try:
-            WebDriverWait(self.browser, 10).until(EC.element_to_be_clickable((By.ID, "cg-profile-popup-toggle")), message="Couldn't find cg-profile-popup-toggle")
+            WebDriverWait(self.browser, 10).until(EC.element_to_be_clickable((By.ID, "cg-profile-popup-toggle")), message="Couldn't find cg-profile-popup-toggle #2")
         except:
             if not self.login():
                 return False
