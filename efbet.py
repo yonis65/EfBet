@@ -215,7 +215,7 @@ class EfBet():
 
     def wait_bet_to_end(self):
         logger.info(f"[EfBet] Waiting for the bet to end")
-        time.sleep(90 * 60)
+        time.sleep(55 * 60)
 
         MINUTES = 5
 
